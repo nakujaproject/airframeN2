@@ -1,4 +1,4 @@
-# AirframeN1
+# AirframeN2
 
 This is the repository for airframe sub-group relating to N1 rocket.
 
